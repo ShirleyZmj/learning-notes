@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Commands.md",
+                "file": "Singapore/Tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands"
+              "title": "Tips"
             }
           }
         ]
@@ -170,10 +170,14 @@
   },
   "active": "3fd58c9ce7107e7e",
   "lastOpenFiles": [
+    "google-cloud/GKE.md",
+    "google-cloud/google-compute-engine.md",
+    "Singapore/Tips.md",
+    "Kubernetes/Commands.md",
+    "Singapore",
     "Pasted image 20250326184131.png",
     "Kubernetes/Pasted image 20250326184058.png",
     "Kubernetes/Basic.md",
-    "Kubernetes/Commands.md",
     "Kubernetes/Pasted image 20250326183950.png",
     "google-cloud/load-balancer/GKE-internal-and-external.md",
     "Kubernetes",
