@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Commands.md",
+                "file": "Singapore/Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Commands"
+              "title": "Backlinks for Tips"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Commands.md",
+                "file": "Singapore/Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Commands"
+              "title": "Outgoing links from Tips"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Commands.md",
+                "file": "Singapore/Tips.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Commands"
+              "title": "Outline of Tips"
             }
           }
         ]
@@ -170,10 +170,8 @@
   },
   "active": "3fd58c9ce7107e7e",
   "lastOpenFiles": [
-    "google-cloud/GKE.md",
-    "google-cloud/google-compute-engine.md",
-    "Singapore/Tips.md",
     "Kubernetes/Commands.md",
+    "Singapore/Tips.md",
     "Singapore",
     "Pasted image 20250326184131.png",
     "Kubernetes/Pasted image 20250326184058.png",
