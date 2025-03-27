@@ -1,9 +1,9 @@
-| **Storage Class**      | **Name for APIs and CLIs** | **Minimum Storage Duration** | **Retrieval Fees** | **Typical Monthly Availability** |
-|------------------------|----------------------------|------------------------------|--------------------|----------------------------------|
-| **Standard storage**    | STANDARD                   | None                         | None               | >99.99% in multi-regions and dual-regions<br>99.99% in regions |
-| **Nearline storage**    | NEARLINE                   | 30 days                      | Yes                | 99.95% in multi-regions and dual-regions<br>99.9% in regions |
-| **Coldline storage**    | COLDLINE                   | 90 days                      | Yes                | 99.95% in multi-regions and dual-regions<br>99.9% in regions |
-| **Archive storage**     | ARCHIVE                    | 365 days                     | Yes                | 99.95% in multi-regions and dual-regions<br>99.9% in regions |
+| **Storage Class**    | **Name for APIs and CLIs** | **Minimum Storage Duration** | **Retrieval Fees** | **Typical Monthly Availability**                               |
+| -------------------- | -------------------------- | ---------------------------- | ------------------ | -------------------------------------------------------------- |
+| **Standard storage** | STANDARD                   | None                         | None               | >99.99% in multi-regions and dual-regions<br>99.99% in regions |
+| **Nearline storage** | NEARLINE                   | 30 days                      | Yes                | 99.95% in multi-regions and dual-regions<br>99.9% in regions   |
+| **Coldline storage** | COLDLINE                   | 90 days                      | Yes                | 99.95% in multi-regions and dual-regions<br>99.9% in regions   |
+| **Archive storage**  | ARCHIVE                    | 365 days                     | Yes                | 99.95% in multi-regions and dual-regions<br>99.9% in regions   |
 
 
 以下是 **Google Cloud Storage** 存储位置和存储类的详细说明：
