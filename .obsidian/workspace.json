@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "google-cloud/5. Configuring access and security/Google Cloud Account type.md",
+                "file": "google-cloud-course/Google Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Cloud Account type"
+              "title": "Google Cloud"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Cloud load balanc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "google-cloud/5. Configuring access and security/Google Cloud Account type.md",
+                "file": "google-cloud-course/Google Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Google Cloud Account type"
+              "title": "Backlinks for Google Cloud"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "google-cloud/5. Configuring access and security/Google Cloud Account type.md",
+                "file": "google-cloud-course/Google Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Google Cloud Account type"
+              "title": "Outgoing links from Google Cloud"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "google-cloud/5. Configuring access and security/Google Cloud Account type.md",
+                "file": "google-cloud-course/Google Cloud.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Google Cloud Account type"
+              "title": "Outline of Google Cloud"
             }
           }
         ]
@@ -170,42 +170,51 @@
   },
   "active": "3fd58c9ce7107e7e",
   "lastOpenFiles": [
+    "google-cloud/load-balancer/GKE-internal-and-external.md",
+    "google-cloud-course/definitions/Cloud DNS and Cloud CDN.md",
+    "google-cloud-course/Google Cloud.md",
+    "google-cloud-course/definitions/SLA - 服务等级协议 - Service Level Agreement.md",
+    "google-cloud-course/definitions/Google VPC 网络与其他网络的连接方式.md",
+    "google-cloud-course/definitions/为什么要连接VPC与其他网络.md",
+    "google-cloud-course/definitions/VPC Networks Firewall Rules.md",
+    "google-cloud/GKE.md",
+    "google-cloud-course/definitions/Cloud CDN ( using Edge Caching ).md",
+    "google-cloud-course/definitions/Google Public DNS.md",
+    "google-cloud/Google Associate Cloud Engineer.md",
+    "google-cloud/migration.md",
+    "google-cloud-course/images/Pasted image 20250402123012.png",
+    "google-cloud-course/images/Pasted image 20250402123122.png",
+    "Pasted image 20250326184131.png",
+    "Pasted image 20250401113514.png",
+    "google-cloud-course/definitions/Load Balancer Types Tree.md",
+    "google-cloud-course/images/Pasted image 20250402123136.png",
+    "google-cloud-course/images",
+    "google-cloud-course/Untitled.canvas",
+    "google-cloud/difference-between-aws-and-gcp.md",
+    "google-cloud/Cloud-MonitoringUntitled.md",
+    "google-cloud-course/definitions/Google Cloud Networking Routing Tables & Firewalls.md",
+    "google-cloud-course/definitions/Compute Engines VMs.md",
+    "google-cloud-course/definitions/Bitnami Lamp Stack.md",
+    "google-cloud-course/definitions/VPC Region.md",
+    "google-cloud-course/definitions",
+    "Untitled",
+    "google-cloud/5. Configuring access and security/Google Cloud Account type.md",
+    "google-cloud-course",
     "google-cloud/5. Configuring access and security/creating custom permissions.md",
     "google-cloud/5. Configuring access and security/Application Credentials.md",
-    "google-cloud/5. Configuring access and security/Google Cloud Account type.md",
     "Untitled.md",
-    "google-cloud/Cloud-MonitoringUntitled.md",
     "google-cloud/5. Configuring access and security",
-    "Untitled",
     "google-cloud/Configuring Access and Security                5.IAM",
     "google-cloud/VPC/VPC-network-management.md",
-    "google-cloud/Google Associate Cloud Engineer.md",
     "google-cloud/VPC",
     "google-cloud/intro.md",
-    "google-cloud/migration.md",
     "google-cloud/VPC/VPC-virtual-private-cloud.md",
-    "google-cloud/storage/lifecycle-management.md",
-    "google-cloud/storage/storage-class.md",
-    "google-cloud/storage/row-based-and-columnar.md",
-    "google-cloud/storage/Firestore.md",
-    "google-cloud/storage/AlloyDB.md",
-    "google-cloud/cloud-run-and-cloud-run-functions/cloud-run-autoscaling.md",
-    "google-cloud/cloud-run-and-cloud-run-functions/cloud-run.md",
-    "Singapore/Tips.md",
-    "Kubernetes/Commands.md",
     "Singapore",
-    "Pasted image 20250326184131.png",
     "Kubernetes/Pasted image 20250326184058.png",
-    "Kubernetes/Basic.md",
     "Kubernetes/Pasted image 20250326183950.png",
-    "google-cloud/load-balancer/GKE-internal-and-external.md",
     "Kubernetes",
     "google-cloud/load-balancer/Pasted image 20250326181500.png",
-    "test/Goal Setting.md",
     "google-cloud/load-balancer",
-    "Terraform/intro.md",
-    "Pasted image 20250326152403.png",
-    "Terraform/HashiCorp.md",
-    "google-cloud/cloud-load-balancing/intro.md"
+    "Pasted image 20250326152403.png"
   ]
 }
