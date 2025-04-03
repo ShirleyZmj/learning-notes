@@ -168,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fd58c9ce7107e7e",
+  "active": "de74517570dfa516",
   "lastOpenFiles": [
     "google-cloud-course/Google Cloud Fundamentals (1).md",
     "google-cloud-course/Google Cloud Fundamentals (2).md",
@@ -199,22 +199,15 @@
     "google-cloud-course/definitions/VPC Region.md",
     "google-cloud-course/definitions",
     "Untitled",
-    "google-cloud/5. Configuring access and security/Google Cloud Account type.md",
     "google-cloud-course",
-    "google-cloud/5. Configuring access and security/creating custom permissions.md",
-    "google-cloud/5. Configuring access and security/Application Credentials.md",
-    "Untitled.md",
     "google-cloud/5. Configuring access and security",
     "google-cloud/Configuring Access and Security                5.IAM",
-    "google-cloud/VPC/VPC-network-management.md",
     "google-cloud/VPC",
     "google-cloud/intro.md",
     "Singapore",
     "Kubernetes/Pasted image 20250326184058.png",
     "Kubernetes/Pasted image 20250326183950.png",
-    "Kubernetes",
     "google-cloud/load-balancer/Pasted image 20250326181500.png",
-    "google-cloud/load-balancer",
     "Pasted image 20250326152403.png"
   ]
 }
