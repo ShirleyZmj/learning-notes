@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "google-cloud-course/Google Cloud.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals (2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Cloud"
+              "title": "Google Cloud Fundamentals (2)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 286.5
   },
   "right": {
     "id": "8474ff45442387f5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "google-cloud-course/Google Cloud.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals (2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Google Cloud"
+              "title": "Backlinks for Google Cloud Fundamentals (2)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "google-cloud-course/Google Cloud.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals (2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Google Cloud"
+              "title": "Outgoing links from Google Cloud Fundamentals (2)"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "google-cloud-course/Google Cloud.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals (2).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Google Cloud"
+              "title": "Outline of Google Cloud Fundamentals (2)"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "3fd58c9ce7107e7e",
   "lastOpenFiles": [
+    "google-cloud-course/Google Cloud Fundamentals (1).md",
+    "google-cloud-course/Google Cloud Fundamentals (2).md",
     "google-cloud/load-balancer/GKE-internal-and-external.md",
     "google-cloud-course/definitions/Cloud DNS and Cloud CDN.md",
-    "google-cloud-course/Google Cloud.md",
     "google-cloud-course/definitions/SLA - 服务等级协议 - Service Level Agreement.md",
     "google-cloud-course/definitions/Google VPC 网络与其他网络的连接方式.md",
     "google-cloud-course/definitions/为什么要连接VPC与其他网络.md",
@@ -208,7 +209,6 @@
     "google-cloud/VPC/VPC-network-management.md",
     "google-cloud/VPC",
     "google-cloud/intro.md",
-    "google-cloud/VPC/VPC-virtual-private-cloud.md",
     "Singapore",
     "Kubernetes/Pasted image 20250326184058.png",
     "Kubernetes/Pasted image 20250326183950.png",
