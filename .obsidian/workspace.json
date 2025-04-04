@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals (4) - App in the Cloud.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Cloud Fundamentals (4) - App in the Cloud"
+              "title": "Google Cloud Fundamentals (5) - Prompt Engineering"
             }
           },
           {
@@ -27,16 +27,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals (5) -  Prompt Engineering.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Cloud Fundamentals (5) -  Prompt Engineering"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "f164d242d4e56e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 357.5
   },
   "right": {
     "id": "8474ff45442387f5",
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals (5) -  Prompt Engineering.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Google Cloud Fundamentals (5) -  Prompt Engineering"
+              "title": "Backlinks for Google Cloud Fundamentals (5) - Prompt Engineering"
             }
           },
           {
@@ -128,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals (5) -  Prompt Engineering.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Google Cloud Fundamentals (5) -  Prompt Engineering"
+              "title": "Outgoing links from Google Cloud Fundamentals (5) - Prompt Engineering"
             }
           },
           {
@@ -157,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals (5) -  Prompt Engineering.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Google Cloud Fundamentals (5) -  Prompt Engineering"
+              "title": "Outline of Google Cloud Fundamentals (5) - Prompt Engineering"
             }
           }
         ]
@@ -183,21 +196,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2840473d2235792",
+  "active": "3fd58c9ce7107e7e",
   "lastOpenFiles": [
+    "google-cloud-course/LLM 分享.md",
+    "google-cloud-course/大语言模型（LLM）是怎么确认某个词的概率的.md",
+    "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
+    "google-cloud-course/images/Pasted image 20250404135103.png",
     "Untitled.md",
-    "google-cloud-course/Google Cloud Fundamentals (5) -  Prompt Engineering.md",
-    "google-cloud-course/Google Cloud Fundamentals (1).md",
     "google-cloud-course/Google Cloud Fundamentals (4) - App in the Cloud.md",
-    "google-cloud-course/Google Cloud Fundamentals (3) -Containers & GKE.md",
+    "google-cloud-course/images/Pasted image 20250404164733.png",
+    "google-cloud-course/images/Pasted image 20250404164528.png",
+    "google-cloud-course/images/Pasted image 20250404164429.png",
+    "google-cloud-course/images/Pasted image 20250404150330.png",
+    "google-cloud-course/images/Pasted image 20250404150243.png",
+    "google-cloud-course/images/Pasted image 20250404135507.png",
+    "Pasted image 20250404135403.png",
+    "google-cloud/Pasted image 20250326184131.png",
+    "google-cloud-course/images/Pasted image 20250404134419.png",
+    "google-cloud-course/Google Cloud Fundamentals (1).md",
     "google-cloud-course/Google Cloud Fundamentals (2) - StorageInTheCloud.md",
+    "google-cloud-course/Google Cloud Fundamentals (3) - Containers & GKE.md",
+    "google-cloud-course/Google Cloud Fundamentals",
     "test/ppt.html",
     "Singapore/购房.md",
     "Singapore/经济和政治.md",
     "Singapore/新加坡的移民政策（2024 年）.md",
     "Singapore/新加坡企业本地员工比例要求.md",
     "Singapore/住房.md",
-    "Singapore/ppt/images/bg-icon.png",
     "Singapore/ppt/images",
     "Singapore/ppt",
     "google-cloud/load-balancer/GKE-internal-and-external.md",
@@ -211,26 +236,13 @@
     "google-cloud-course/definitions/Google Public DNS.md",
     "google-cloud/Google Associate Cloud Engineer.md",
     "google-cloud/migration.md",
-    "google-cloud-course/images/Pasted image 20250402123012.png",
-    "google-cloud-course/images/Pasted image 20250402123122.png",
-    "Pasted image 20250326184131.png",
-    "Pasted image 20250401113514.png",
     "google-cloud-course/definitions/Load Balancer Types Tree.md",
-    "google-cloud-course/images/Pasted image 20250402123136.png",
     "google-cloud-course/images",
     "google-cloud-course/Untitled.canvas",
-    "google-cloud/difference-between-aws-and-gcp.md",
-    "google-cloud/Cloud-MonitoringUntitled.md",
-    "google-cloud-course/definitions/Google Cloud Networking Routing Tables & Firewalls.md",
     "google-cloud-course/definitions",
     "Untitled",
     "google-cloud-course",
     "google-cloud/5. Configuring access and security",
-    "google-cloud/Configuring Access and Security                5.IAM",
-    "google-cloud/VPC",
-    "Kubernetes/Pasted image 20250326184058.png",
-    "Kubernetes/Pasted image 20250326183950.png",
-    "google-cloud/load-balancer/Pasted image 20250326181500.png",
-    "Pasted image 20250326152403.png"
+    "google-cloud/Configuring Access and Security                5.IAM"
   ]
 }

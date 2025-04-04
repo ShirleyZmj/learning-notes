@@ -79,3 +79,65 @@ Cloud Run 是一种 Serverless 容器运行平台，它简化了应用部署和�
 **简而言之：**
 
 Cloud Run Functions 是一种 Serverless 的事件驱动计算服务，它允许用户编写和部署小型、单一用途的函数，以响应云事件。它简化了事件驱动型应用程序的开发和管理，并按实际运行时间计费。
+
+
+
+# Lab
+- Enable the Cloud Run API.
+- Create a simple Node.js application that can be deployed as a serverless, stateless container.
+- Containerize your application and upload to Artifact Registry.
+- Deploy a containerized application on Cloud Run.
+- Delete unneeded images to avoid incurring extra storage charges
+
+## GCP Command
+- for more [gcloud CLI overview](https://cloud.google.com/sdk/gcloud)
+- `gcloud auth list`:  list the active account name
+- `gcloud config list project`: list the project ID
+- `gcloud container images list`: List all the container images associated with your current project
+- `gcloud auth configure-docker`: Register `gcloud` as the credential helper for all Google-supported Docker registries
+- gcloud run deploy --image gcr.io/$GOOGLE_CLOUD_PROJECT/helloworld --allow-unauthenticated --region=$LOCATION`
+	- Deploying your containerized application to Cloud Run is done using the following command adding your Project-ID
+	- The allow-unauthenticated flag in the command above makes your service publicly accessible.
+- `gcloud container images delete gcr.io/$GOOGLE_CLOUD_PROJECT/helloworld`
+	- delete your Google Cloud project to avoid incurring charges for storing the built container image
+- `gcloud run services delete helloworld --region="REGION"`
+	- delete the Cloud Run service, use this command 
+
+
+## Linux Command
+- `docker run -d -p 8080:8080 gcr.io/$GOOGLE_CLOUD_PROJECT/helloworld`
+- `curl localhost:8080`
+
+## Docerfile
+- `COPY package*.json ./
+	- 等价于复制这两个文件（如果存在）： `package.json`（依赖清单） `package-lock.json`（依赖锁文件）
+- 为什么要先复制这两个文件呢
+	- Docker 缓存机制
+		- Docker 构建镜像时，每一条命令（如 `COPY`、`RUN`）会作为一层（layer）缓存。如果上一次构建中某一层没变，Docker 就会复用那一层，**加快构建速度**。
+		- 构建顺序推荐如下
+```dockerfile
+# Use the official lightweight Node.js 12 image.
+# https://hub.docker.com/_/node
+FROM node:12-slim
+
+# 设置工作目录
+WORKDIR /app
+
+# ✅ 第一步：先复制依赖清单
+COPY package*.json ./
+
+# ✅ 第二步：安装依赖（利用缓存）
+# Install production dependencies.
+# If you add a package-lock.json, speed your build by switching to 'npm ci'.
+# RUN npm ci --only=production
+# RUN npm install --only=production
+RUN npm install
+
+# ✅ 第三步：复制源代码
+COPY . .
+
+# Run the web service on container startup.
+CMD [ "npm", "start" ]
+```
+
+- 如果你先 `COPY . .`，那么即使你只改了一行代码，Docker 也会认为整个项目都变了，导致重新跑 `npm install`，白白浪费时间。
