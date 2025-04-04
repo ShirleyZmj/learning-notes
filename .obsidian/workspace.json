@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fd58c9ce7107e7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Google Cloud Fundamentals (5) - Prompt Engineering"
-            }
-          },
-          {
             "id": "e2840473d2235792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Google Cloud Fundamentals (1)"
             }
           },
           {
@@ -81,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cloud load balanc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Google Cloud Fundamentals (5) - Prompt Engineering"
+              "title": "Backlinks for Google Cloud Fundamentals (1)"
             }
           },
           {
@@ -141,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Google Cloud Fundamentals (5) - Prompt Engineering"
+              "title": "Outgoing links from Google Cloud Fundamentals (1)"
             }
           },
           {
@@ -170,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
+                "file": "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Google Cloud Fundamentals (5) - Prompt Engineering"
+              "title": "Outline of Google Cloud Fundamentals (1)"
             }
           }
         ]
@@ -196,13 +183,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fd58c9ce7107e7e",
+  "active": "e5140d8ba44ea8c9",
   "lastOpenFiles": [
-    "google-cloud-course/LLM 分享.md",
-    "google-cloud-course/大语言模型（LLM）是怎么确认某个词的概率的.md",
-    "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
-    "google-cloud-course/images/Pasted image 20250404135103.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/summary.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/resources/T-ESSCIF-I-4-l1-en-file-46.en.pdf",
+    "google-cloud-course/Essential Google Cloud Infrastructure/resources",
+    "google-cloud-course/Essential Google Cloud Infrastructure/T-ESSCIF-I-4-l1-en-file-46.en.pdf",
+    "google-cloud-course/Essential Google Cloud Infrastructure",
+    "google-cloud-course/Google Cloud Fundamentals/Resources/T-GCPFCI-B-m8-l2-en-file-36.en.pdf",
+    "google-cloud-course/Google Cloud Fundamentals/Resources",
+    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (2) - StorageInTheCloud.md",
+    "google-cloud-course/Google Cloud Fundamentals/Summary.md",
+    "google-cloud-course/LLM/LLM 分享.md",
     "Untitled.md",
+    "google-cloud-course/LLM/大语言模型（LLM）是怎么确认某个词的概率的.md",
+    "google-cloud-course/LLM",
+    "google-cloud-course/Google Cloud Fundamentals/LLM/大语言模型（LLM）是怎么确认某个词的概率的.md",
+    "google-cloud-course/Google Cloud Fundamentals/LLM/LLM 分享.md",
+    "google-cloud-course/Google Cloud Fundamentals/LLM",
+    "google-cloud-course/LLM 分享.md",
+    "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
+    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (5) - Prompt Engineering.md",
+    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (4) - App in the Cloud.md",
+    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (3) - Containers & GKE.md",
+    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
+    "google-cloud-course/Google Cloud Fundamentals/summary",
+    "google-cloud-course/大语言模型（LLM）是怎么确认某个词的概率的.md",
+    "google-cloud-course/images/Pasted image 20250404135103.png",
     "google-cloud-course/Google Cloud Fundamentals (4) - App in the Cloud.md",
     "google-cloud-course/images/Pasted image 20250404164733.png",
     "google-cloud-course/images/Pasted image 20250404164528.png",
@@ -217,32 +224,13 @@
     "google-cloud-course/Google Cloud Fundamentals (2) - StorageInTheCloud.md",
     "google-cloud-course/Google Cloud Fundamentals (3) - Containers & GKE.md",
     "google-cloud-course/Google Cloud Fundamentals",
-    "test/ppt.html",
     "Singapore/购房.md",
     "Singapore/经济和政治.md",
     "Singapore/新加坡的移民政策（2024 年）.md",
     "Singapore/新加坡企业本地员工比例要求.md",
     "Singapore/住房.md",
-    "Singapore/ppt/images",
-    "Singapore/ppt",
     "google-cloud/load-balancer/GKE-internal-and-external.md",
     "google-cloud-course/definitions/Cloud DNS and Cloud CDN.md",
-    "google-cloud-course/definitions/SLA - 服务等级协议 - Service Level Agreement.md",
-    "google-cloud-course/definitions/Google VPC 网络与其他网络的连接方式.md",
-    "google-cloud-course/definitions/为什么要连接VPC与其他网络.md",
-    "google-cloud-course/definitions/VPC Networks Firewall Rules.md",
-    "google-cloud/GKE.md",
-    "google-cloud-course/definitions/Cloud CDN ( using Edge Caching ).md",
-    "google-cloud-course/definitions/Google Public DNS.md",
-    "google-cloud/Google Associate Cloud Engineer.md",
-    "google-cloud/migration.md",
-    "google-cloud-course/definitions/Load Balancer Types Tree.md",
-    "google-cloud-course/images",
-    "google-cloud-course/Untitled.canvas",
-    "google-cloud-course/definitions",
-    "Untitled",
-    "google-cloud-course",
-    "google-cloud/5. Configuring access and security",
-    "google-cloud/Configuring Access and Security                5.IAM"
+    "google-cloud-course/Untitled.canvas"
   ]
 }
