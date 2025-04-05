@@ -168,13 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de74517570dfa516",
+  "active": "3fd58c9ce7107e7e",
   "lastOpenFiles": [
+    "google-cloud-course/definitions/Google VPC 网络与其他网络的连接方式.md",
+    "google-cloud-course/Google Cloud.md",
     "google-cloud/load-balancer/GKE-internal-and-external.md",
     "google-cloud-course/definitions/Cloud DNS and Cloud CDN.md",
-    "google-cloud-course/Google Cloud.md",
     "google-cloud-course/definitions/SLA - 服务等级协议 - Service Level Agreement.md",
-    "google-cloud-course/definitions/Google VPC 网络与其他网络的连接方式.md",
     "google-cloud-course/definitions/为什么要连接VPC与其他网络.md",
     "google-cloud-course/definitions/VPC Networks Firewall Rules.md",
     "google-cloud/GKE.md",
