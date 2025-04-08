@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
+                "file": "google-cloud-course/Essential Google Cloud Infrastructure/Virtual Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Cloud Fundamentals (1)"
-            }
-          },
-          {
-            "id": "f164d242d4e56e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Virtual Networks"
             }
           }
         ]
@@ -88,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
+                "file": "google-cloud-course/Essential Google Cloud Infrastructure/Virtual Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Google Cloud Fundamentals (1)"
+              "title": "Backlinks for Virtual Networks"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
+                "file": "google-cloud-course/Essential Google Cloud Infrastructure/Virtual Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Google Cloud Fundamentals (1)"
+              "title": "Outgoing links from Virtual Networks"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
+                "file": "google-cloud-course/Essential Google Cloud Infrastructure/Virtual Networks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Google Cloud Fundamentals (1)"
+              "title": "Outline of Virtual Networks"
             }
           }
         ]
@@ -183,54 +168,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5140d8ba44ea8c9",
+  "active": "e2840473d2235792",
   "lastOpenFiles": [
     "google-cloud-course/Essential Google Cloud Infrastructure/summary.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/Virtual Networks.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/Untitled.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/Routes and firewall rules.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/resources/Alias IP Ranges 作用和使用.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/resources/如何分配 Alias IP.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/resources/主CIDR 和 次CIDR 不能重叠.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/resources/子网掩码 和 CIDR.md",
+    "google-cloud-course/images/Pasted image 20250408154548.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/resources/T-ESSCIF-I-2-l7a-en-file-20.en.pdf",
+    "google-cloud-course/images/Pasted image 20250408150555.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/resources/DHCP 动态主机配置协议.md",
+    "google-cloud-course/images/Pasted image 20250408124937.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/resources/RFC - Request For Comments.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/Untitled",
+    "Untitled.md",
+    "Untitled",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Projects/Pasted image 20250408111020.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Projects/Projects-intro.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Jenkins-intro.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408105705.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408105802.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408105738.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Projects",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408103950.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408104914.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408105525.png",
+    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs",
     "google-cloud-course/Essential Google Cloud Infrastructure/resources/T-ESSCIF-I-4-l1-en-file-46.en.pdf",
     "google-cloud-course/Essential Google Cloud Infrastructure/resources",
     "google-cloud-course/Essential Google Cloud Infrastructure/T-ESSCIF-I-4-l1-en-file-46.en.pdf",
     "google-cloud-course/Essential Google Cloud Infrastructure",
-    "google-cloud-course/Google Cloud Fundamentals/Resources/T-GCPFCI-B-m8-l2-en-file-36.en.pdf",
-    "google-cloud-course/Google Cloud Fundamentals/Resources",
     "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (2) - StorageInTheCloud.md",
     "google-cloud-course/Google Cloud Fundamentals/Summary.md",
     "google-cloud-course/LLM/LLM 分享.md",
-    "Untitled.md",
     "google-cloud-course/LLM/大语言模型（LLM）是怎么确认某个词的概率的.md",
-    "google-cloud-course/LLM",
     "google-cloud-course/Google Cloud Fundamentals/LLM/大语言模型（LLM）是怎么确认某个词的概率的.md",
     "google-cloud-course/Google Cloud Fundamentals/LLM/LLM 分享.md",
-    "google-cloud-course/Google Cloud Fundamentals/LLM",
     "google-cloud-course/LLM 分享.md",
     "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
     "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (5) - Prompt Engineering.md",
     "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (4) - App in the Cloud.md",
     "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (3) - Containers & GKE.md",
-    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
-    "google-cloud-course/Google Cloud Fundamentals/summary",
     "google-cloud-course/大语言模型（LLM）是怎么确认某个词的概率的.md",
-    "google-cloud-course/images/Pasted image 20250404135103.png",
-    "google-cloud-course/Google Cloud Fundamentals (4) - App in the Cloud.md",
-    "google-cloud-course/images/Pasted image 20250404164733.png",
-    "google-cloud-course/images/Pasted image 20250404164528.png",
-    "google-cloud-course/images/Pasted image 20250404164429.png",
-    "google-cloud-course/images/Pasted image 20250404150330.png",
-    "google-cloud-course/images/Pasted image 20250404150243.png",
-    "google-cloud-course/images/Pasted image 20250404135507.png",
-    "Pasted image 20250404135403.png",
-    "google-cloud/Pasted image 20250326184131.png",
-    "google-cloud-course/images/Pasted image 20250404134419.png",
-    "google-cloud-course/Google Cloud Fundamentals (1).md",
-    "google-cloud-course/Google Cloud Fundamentals (2) - StorageInTheCloud.md",
-    "google-cloud-course/Google Cloud Fundamentals (3) - Containers & GKE.md",
-    "google-cloud-course/Google Cloud Fundamentals",
-    "Singapore/购房.md",
-    "Singapore/经济和政治.md",
-    "Singapore/新加坡的移民政策（2024 年）.md",
-    "Singapore/新加坡企业本地员工比例要求.md",
-    "Singapore/住房.md",
-    "google-cloud/load-balancer/GKE-internal-and-external.md",
-    "google-cloud-course/definitions/Cloud DNS and Cloud CDN.md",
     "google-cloud-course/Untitled.canvas"
   ]
 }
