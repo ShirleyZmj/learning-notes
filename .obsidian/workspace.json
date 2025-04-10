@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "google-cloud-course/Essential Google Cloud Infrastructure/Virtual Networks.md",
+                "file": "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virtual Networks"
+              "title": "Intro"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "google-cloud-course/Essential Google Cloud Infrastructure/Virtual Networks.md",
+                "file": "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Virtual Networks"
+              "title": "Backlinks for Intro"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "google-cloud-course/Essential Google Cloud Infrastructure/Virtual Networks.md",
+                "file": "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Virtual Networks"
+              "title": "Outgoing links from Intro"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "google-cloud-course/Essential Google Cloud Infrastructure/Virtual Networks.md",
+                "file": "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Virtual Networks"
+              "title": "Outline of Intro"
             }
           }
         ]
@@ -170,52 +170,51 @@
   },
   "active": "e2840473d2235792",
   "lastOpenFiles": [
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Pasted image 20250410153811.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Intro.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Pasted image 20250410160032.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Pasted image 20250410154301.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/VM - Common Compute Engine actions.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server",
+    "google-cloud-course/Essential Google Cloud Infrastructure/VM - Compute Engine.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/VM - Virtual Machines.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/VM - Social compute configurations.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/VM - Images.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/VM - Disk options.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/VM - Compute Options and Pricing.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/summary.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/Virtual Networks.md",
-    "google-cloud-course/Essential Google Cloud Infrastructure/Untitled.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/Routes and firewall rules.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409170602.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Intro.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409172812.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409172525.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409172149.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409171935.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/RDP/my-windows-instance-us.rdp",
+    "google-cloud-course/Essential Google Cloud Infrastructure/RDP/Unconfirmed 862693.crdownload",
+    "google-cloud-course/Essential Google Cloud Infrastructure/RDP",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409171721.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409171652.png",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines",
+    "google-cloud-course/Essential Google Cloud Infrastructure/images",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Private Google Access and Cloud NAT/intro.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/VPC/VPC-intro.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Private Google Access and Cloud NAT",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/VPC",
     "google-cloud-course/Essential Google Cloud Infrastructure/resources/Alias IP Ranges 作用和使用.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/resources/如何分配 Alias IP.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/resources/主CIDR 和 次CIDR 不能重叠.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/resources/子网掩码 和 CIDR.md",
-    "google-cloud-course/images/Pasted image 20250408154548.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/resources/T-ESSCIF-I-2-l7a-en-file-20.en.pdf",
-    "google-cloud-course/images/Pasted image 20250408150555.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/resources/DHCP 动态主机配置协议.md",
-    "google-cloud-course/images/Pasted image 20250408124937.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/resources/RFC - Request For Comments.md",
-    "google-cloud-course/Essential Google Cloud Infrastructure/Untitled",
     "Untitled.md",
     "Untitled",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Projects/Pasted image 20250408111020.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Projects/Projects-intro.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Jenkins-intro.md",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408105705.png",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408105802.png",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408105738.png",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Projects",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408103950.png",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408104914.png",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Pasted image 20250408105525.png",
     "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs",
-    "google-cloud-course/Essential Google Cloud Infrastructure/resources/T-ESSCIF-I-4-l1-en-file-46.en.pdf",
-    "google-cloud-course/Essential Google Cloud Infrastructure/resources",
-    "google-cloud-course/Essential Google Cloud Infrastructure/T-ESSCIF-I-4-l1-en-file-46.en.pdf",
-    "google-cloud-course/Essential Google Cloud Infrastructure",
     "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (2) - StorageInTheCloud.md",
-    "google-cloud-course/Google Cloud Fundamentals/Summary.md",
-    "google-cloud-course/LLM/LLM 分享.md",
-    "google-cloud-course/LLM/大语言模型（LLM）是怎么确认某个词的概率的.md",
-    "google-cloud-course/Google Cloud Fundamentals/LLM/大语言模型（LLM）是怎么确认某个词的概率的.md",
-    "google-cloud-course/Google Cloud Fundamentals/LLM/LLM 分享.md",
-    "google-cloud-course/LLM 分享.md",
-    "google-cloud-course/Google Cloud Fundamentals (5) - Prompt Engineering.md",
-    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (5) - Prompt Engineering.md",
-    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (4) - App in the Cloud.md",
-    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (3) - Containers & GKE.md",
-    "google-cloud-course/大语言模型（LLM）是怎么确认某个词的概率的.md",
     "google-cloud-course/Untitled.canvas"
   ]
 }
