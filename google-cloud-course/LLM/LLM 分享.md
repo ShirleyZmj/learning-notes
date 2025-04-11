@@ -1,9 +1,3 @@
-
-你是一个Google Cloud Associate Engineer 出题者，根据我之后发送的内容，列出总结和考点，以及用英文给出例题和解答。例题和解答分开。
-
-好的，根据您提供的内容，我将总结核心概念、考点，并提供一些考试相关的提示。
-
-**核心概念总结：**
 ## 生成式人工智能 （Generative AI ）
 ### 定义
 - 一种人工智能的子集，能够生成文本、图像、音频、合成数据等多种类型的数据。
@@ -72,7 +66,7 @@
 		- 回归到自己熟悉的语言模式去预测。
 	- 这在它的经验里（训练语料中）是最“合理”或“常见”的语言结构。
 	- 那 sky 为什么概率很低？
-		- 训练数据里出现这样的匹配不多
+		- 训练数据里出现这样的匹配不多 
 3. 类比：就像你看泰文/韩语书写，你一个字都看不懂，你就只能按照之前见过的例子去猜测。
 
 ### 大语言模型（LLM）是怎么确认某个词的概率的？
@@ -387,11 +381,15 @@ Sasha 是一位云架构师。她最初的问题比较模糊，但后来她这�
 
 ---
 
-📌 **小建议**：你可以把这篇博客收藏起来，下次不知道怎么提问时，回来看看小抄就行啦！
 
-```
+# 提示网站
+- [deepseek官方提示语库](https://api-docs.deepseek.com/zh-cn/prompt-library/)
+- [1Prompt](https://1prompt.top/)
 
----
-
-这个版本可作为博客结尾，非常友好、实用又接地气。如果你还想加点插图或交互提示（比如折叠展开的模板样式），我也可以帮你设计成网页版的组件形式。需要的话可以跟我说 😄
-```
+- [Google Al Studio](https://aistudio.google.com/app/prompts)
+- [Hero Prompt Library](https://hero.page/discover)
+- [Snack Prompt](https://snackprompt.com/prompts)
+- [OpenAl Prompt Library](https://platform.openai.com/docs/examples)
+- [Anthropic Prompt Library](https://docs.anthropic.com/en/docs/prompt-engineering/prompt-library)
+- [PromptHero](https://www.prompthero.com/)
+- [Github ChatGPT Prompts](https://github.com/pacholoamit/chatgpt-prompts)
