@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7b20c664cdea59",
+        "id": "12687e77d5e89f9f",
         "type": "tabs",
         "children": [
           {
-            "id": "e2840473d2235792",
+            "id": "75b3ef8a07e7d910",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Intro.md",
+                "file": "Cloudscape/Cloudscape.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Cloudscape"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Intro.md",
+                "file": "Cloudscape/Cloudscape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro"
+              "title": "Backlinks for Cloudscape"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Intro.md",
+                "file": "Cloudscape/Cloudscape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro"
+              "title": "Outgoing links from Cloudscape"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Intro.md",
+                "file": "Cloudscape/Cloudscape.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro"
+              "title": "Outline of Cloudscape"
             }
           }
         ]
@@ -168,10 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2840473d2235792",
+  "active": "75b3ef8a07e7d910",
   "lastOpenFiles": [
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Pasted image 20250410153811.png",
+    "Cloudscape.pdf",
+    "google-cloud-preparation/Pasted image 20250326184131.png",
+    "Cloudscape/Cloudscape.md",
+    "Cloudscape",
+    "google-cloud-preparation/migration.md",
+    "google-cloud-preparation/intro.md",
+    "google-cloud-preparation/Google Associate Cloud Engineer.md",
+    "google-cloud-preparation/GKE.md",
+    "google-cloud-preparation/difference-between-aws-and-gcp.md",
+    "google-cloud-preparation/Cloud-MonitoringUntitled.md",
+    "google-cloud-preparation/Kubernetes/Basic.md",
+    "google-cloud-preparation/Kubernetes/Commands.md",
+    "google-cloud-preparation/Kubernetes/Pasted image 20250326184058.png",
+    "google-cloud-preparation/Kubernetes/Pasted image 20250326183950.png",
+    "Deployment/school-management.md",
+    "Singapore/Tips.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Intro.md",
+    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Pasted image 20250410153811.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Pasted image 20250410160032.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Working with VMs - Minecraft Server/Pasted image 20250410154301.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/VM - Common Compute Engine actions.md",
@@ -190,31 +206,16 @@
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409172812.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409172525.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409172149.png",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409171935.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/RDP/my-windows-instance-us.rdp",
     "google-cloud-course/Essential Google Cloud Infrastructure/RDP/Unconfirmed 862693.crdownload",
     "google-cloud-course/Essential Google Cloud Infrastructure/RDP",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409171721.png",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines/Pasted image 20250409171652.png",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Create Virtual Machines",
     "google-cloud-course/Essential Google Cloud Infrastructure/images",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Private Google Access and Cloud NAT/intro.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/VPC/VPC-intro.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/Private Google Access and Cloud NAT",
     "google-cloud-course/Essential Google Cloud Infrastructure/labs/VPC",
-    "google-cloud-course/Essential Google Cloud Infrastructure/resources/Alias IP Ranges 作用和使用.md",
-    "google-cloud-course/Essential Google Cloud Infrastructure/resources/如何分配 Alias IP.md",
-    "google-cloud-course/Essential Google Cloud Infrastructure/resources/主CIDR 和 次CIDR 不能重叠.md",
-    "google-cloud-course/Essential Google Cloud Infrastructure/resources/子网掩码 和 CIDR.md",
     "google-cloud-course/Essential Google Cloud Infrastructure/resources/T-ESSCIF-I-2-l7a-en-file-20.en.pdf",
-    "google-cloud-course/Essential Google Cloud Infrastructure/resources/DHCP 动态主机配置协议.md",
-    "google-cloud-course/Essential Google Cloud Infrastructure/resources/RFC - Request For Comments.md",
-    "Untitled.md",
-    "Untitled",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Projects/Projects-intro.md",
-    "google-cloud-course/Essential Google Cloud Infrastructure/labs/Jenkins/Jenkins-intro.md",
-    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (1).md",
-    "google-cloud-course/Google Cloud Fundamentals/Google Cloud Fundamentals (2) - StorageInTheCloud.md",
     "google-cloud-course/Untitled.canvas"
   ]
 }
