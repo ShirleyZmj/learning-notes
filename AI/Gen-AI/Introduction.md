@@ -1,0 +1,1 @@
+https://www.techtarget.com/searchenterpriseai/definition/generative-AI
