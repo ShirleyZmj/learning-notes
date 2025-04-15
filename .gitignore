@@ -7,4 +7,6 @@
 # 忽略本地主题文件（可选）
 .obsidian/themes/
 
+.obsidian/
+
 .DS_Store
