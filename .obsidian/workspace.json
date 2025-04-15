@@ -6,7 +6,7 @@
       {
         "id": "622de0837fe16678",
         "type": "tabs",
-        "dimension": 67.98418972332016,
+        "dimension": 33.1447963800905,
         "children": [
           {
             "id": "9fa7eab0777814a0",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Gen-AI/Natural Language Processing.md",
+                "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Natural Language Processing"
+              "title": "Robotics Process Automation (RPA)"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "b2c196c36d8f866e",
         "type": "tabs",
-        "dimension": 32.015810276679844,
+        "dimension": 66.8552036199095,
         "children": [
           {
             "id": "7f8e8e2f024bb2f5",
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 383.5
   },
   "right": {
     "id": "8474ff45442387f5",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Gen-AI/Natural Language Processing.md",
+                "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Natural Language Processing"
+              "title": "Backlinks for Robotics Process Automation (RPA)"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Gen-AI/Natural Language Processing.md",
+                "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Natural Language Processing"
+              "title": "Outgoing links from Robotics Process Automation (RPA)"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Gen-AI/Natural Language Processing.md",
+                "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Natural Language Processing"
+              "title": "Outline of Robotics Process Automation (RPA)"
             }
           }
         ]
@@ -191,16 +191,16 @@
   "active": "9fa7eab0777814a0",
   "lastOpenFiles": [
     "AI/Gen-AI/Playbook-Executive-Briefing-Artificial-Intelligence.pdf",
-    "AI/Gen-AI/Natural Language Processing.md",
     "AI/Gen-AI/Robotics Process Automation (RPA).md",
+    "AI/Gen-AI/Transformer.md",
+    "AI/Gen-AI/Introduction.md",
+    "AI/Gen-AI/Natural Language Processing.md",
     "AI/Gen-AI/Reinforcement Learning.md",
     "AI/Gen-AI/Computer Vision.md",
     "AI/Gen-AI/Deep Learning.md",
-    "AI/Gen-AI/Introduction.md",
     "LLM 分享.pdf",
     "Pasted image 20250415111932.png",
     "AI/Summary.md",
-    "AI/Gen-AI/Transformer.md",
     "AI/Gen-AI/Machine Learning (ML).md",
     "AI/Gen-AI/Certification",
     "AI/Gen-AI/Certification/Certification.md",
