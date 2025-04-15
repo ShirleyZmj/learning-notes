@@ -6,10 +6,7 @@
       {
         "id": "9f7b20c664cdea59",
         "type": "tabs",
-<<<<<<< HEAD
         "dimension": 33.1447963800905,
-=======
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
         "children": [
           {
             "id": "3fd58c9ce7107e7e",
@@ -17,16 +14,11 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
-=======
-                "file": "AI/Milvus/Milvus Node Functions.md",
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "Robotics Process Automation (RPA)"
             }
           }
@@ -47,9 +39,6 @@
               },
               "icon": "lucide-file-text",
               "title": "Playbook-Executive-Briefing-Artificial-Intelligence"
-=======
-              "title": "Milvus Node Functions"
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
             }
           }
         ]
@@ -109,11 +98,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 383.5
-=======
-    "width": 200
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
   },
   "right": {
     "id": "8474ff45442387f5",
@@ -129,11 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
-=======
-                "file": "google-cloud-course/Google Cloud.md",
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,11 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
               "title": "Backlinks for Robotics Process Automation (RPA)"
-=======
-              "title": "Backlinks for Google Cloud"
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
             }
           },
           {
@@ -156,20 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
-=======
-                "file": "google-cloud-course/Google Cloud.md",
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
               "title": "Outgoing links from Robotics Process Automation (RPA)"
-=======
-              "title": "Outgoing links from Google Cloud"
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
             }
           },
           {
@@ -193,21 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
-=======
-                "file": "google-cloud-course/Google Cloud.md",
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
               "title": "Outline of Robotics Process Automation (RPA)"
-=======
-              "title": "Outline of Google Cloud"
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
             }
           }
         ]
@@ -229,7 +190,6 @@
   },
   "active": "3fd58c9ce7107e7e",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "AI/Gen-AI/Playbook-Executive-Briefing-Artificial-Intelligence.pdf",
     "AI/Gen-AI/Robotics Process Automation (RPA).md",
     "AI/Gen-AI/Transformer.md",
@@ -244,9 +204,6 @@
     "AI/Gen-AI/Machine Learning (ML).md",
     "AI/Gen-AI/Certification",
     "AI/Gen-AI/Certification/Certification.md",
-=======
-    "AI/Gen-AI/Natural Language Processing.md",
->>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
     "AI/Gen-AI/Certification/Pasted image 20250414172545.png",
     "AI/Gen-AI/Certification/Pasted image 20250414172535.png",
     "AI/Gen-AI/Certification/Certification.md",
