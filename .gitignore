@@ -1,10 +1,4 @@
 # 忽略 Obsidian 工作区布局
-.obsidian/workspace.json
-
-# 忽略插件文件（可选）
-.obsidian/plugins/
-
-# 忽略本地主题文件（可选）
-.obsidian/themes/
+.obsidian/
 
 .DS_Store

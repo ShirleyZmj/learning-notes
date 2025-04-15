@@ -4,21 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "622de0837fe16678",
+        "id": "9f7b20c664cdea59",
         "type": "tabs",
+<<<<<<< HEAD
         "dimension": 33.1447963800905,
+=======
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
         "children": [
           {
-            "id": "9fa7eab0777814a0",
+            "id": "3fd58c9ce7107e7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
+=======
+                "file": "AI/Milvus/Milvus Node Functions.md",
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Robotics Process Automation (RPA)"
             }
           }
@@ -39,6 +47,9 @@
               },
               "icon": "lucide-file-text",
               "title": "Playbook-Executive-Briefing-Artificial-Intelligence"
+=======
+              "title": "Milvus Node Functions"
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
             }
           }
         ]
@@ -73,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Cloud load balanc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +109,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 383.5
+=======
+    "width": 200
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
   },
   "right": {
     "id": "8474ff45442387f5",
@@ -114,7 +129,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
+=======
+                "file": "google-cloud-course/Google Cloud.md",
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +143,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for Robotics Process Automation (RPA)"
+=======
+              "title": "Backlinks for Google Cloud"
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
             }
           },
           {
@@ -133,12 +156,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
+=======
+                "file": "google-cloud-course/Google Cloud.md",
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from Robotics Process Automation (RPA)"
+=======
+              "title": "Outgoing links from Google Cloud"
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
             }
           },
           {
@@ -162,13 +193,21 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "AI/Gen-AI/Robotics Process Automation (RPA).md",
+=======
+                "file": "google-cloud-course/Google Cloud.md",
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of Robotics Process Automation (RPA)"
+=======
+              "title": "Outline of Google Cloud"
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
             }
           }
         ]
@@ -188,8 +227,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fa7eab0777814a0",
+  "active": "3fd58c9ce7107e7e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "AI/Gen-AI/Playbook-Executive-Briefing-Artificial-Intelligence.pdf",
     "AI/Gen-AI/Robotics Process Automation (RPA).md",
     "AI/Gen-AI/Transformer.md",
@@ -204,37 +244,54 @@
     "AI/Gen-AI/Machine Learning (ML).md",
     "AI/Gen-AI/Certification",
     "AI/Gen-AI/Certification/Certification.md",
+=======
+    "AI/Gen-AI/Natural Language Processing.md",
+>>>>>>> 8f769161e2b69f74cb13031a6a3b743240c0ebaa
     "AI/Gen-AI/Certification/Pasted image 20250414172545.png",
     "AI/Gen-AI/Certification/Pasted image 20250414172535.png",
-    "AI/Playbook-Executive-Briefing-Artificial-Intelligence.pdf",
-    "google-cloud-course/2. Essential Google Cloud Infrastructure - Core Services/IAM - Members.md",
+    "AI/Gen-AI/Certification/Certification.md",
+    "AI/Gen-AI/Transformer.md",
+    "AI/Gen-AI/Robotics Process Automation (RPA).md",
+    "AI/Gen-AI/Reinforcement Learning.md",
+    "AI/Gen-AI/Playbook-Executive-Briefing-Artificial-Intelligence.pdf",
+    "AI/Gen-AI/Machine Learning (ML).md",
+    "AI/Gen-AI/Introduction.md",
+    "AI/Gen-AI/Deep Learning.md",
+    "AI/Gen-AI/Computer Vision.md",
+    "AI/Gen-AI/Certification",
     "AI/Gen-AI",
-    "AI/AI",
-    "AI/Milvus/向量.md",
+    "AI/Milvus/Intro Milvus.md",
+    "AI/Milvus/Milvus Node Functions.md",
+    "AI/Embedding.md",
+    "AI/Milvus/Install.md",
     "AI/Milvus/Pasted image 20250412142203.png",
     "AI/Milvus/Pasted image 20250412134701.png",
-    "AI/Milvus/Install.md",
     "AI/Milvus/Pasted image 20250411220918.png",
-    "AI/Milvus/Milvus Node Functions.md",
-    "AI/Milvus/Intro Milvus.md",
+    "google-cloud-course/LLM/LLM 分享.md",
+    "AI/Milvus/向量.md",
+    "AI/Summary.md",
+    "AI/Summary",
+    "AI/Milvus/Intro",
     "AI/Milvus",
-    "AI/Embedding.md",
     "AI",
-    "google-cloud-course/2. Essential Google Cloud Infrastructure - Core Services/IAM - Best practices.md",
-    "google-cloud-course/2. Essential Google Cloud Infrastructure - Core Services/IAM - Organization Restrictions.md",
-    "google-cloud-course/2. Essential Google Cloud Infrastructure - Core Services/IAM - Service Account.md",
-    "google-cloud-course/3. Essential Google Cloud Infrastructure - Foundation/images/Pasted image 20250409110018.png",
-    "google-cloud-course/3. Essential Google Cloud Infrastructure - Foundation/images/Pasted image 20250409105815.png",
-    "google-cloud-course/3. Essential Google Cloud Infrastructure - Foundation/summary.md",
-    "Cloudscape/Cloudscape.md",
-    "google-cloud-course/2. Essential Google Cloud Infrastructure - Core Services",
-    "Cloudscape.pdf",
-    "google-cloud-preparation/Pasted image 20250326184131.png",
-    "google-cloud-preparation/migration.md",
-    "google-cloud-preparation/intro.md",
-    "google-cloud-preparation/Google Associate Cloud Engineer.md",
-    "google-cloud-preparation/GKE.md",
+    "google-cloud-preparation/storage/storage-class.md",
+    "google-cloud-preparation/storage/row-based-and-columnar.md",
+    "google-cloud-preparation/storage/olap-oldp.md",
+    "google-cloud-preparation/storage/lifecycle-management.md",
+    "google-cloud-preparation/storage/databases.md",
+    "google-cloud-preparation/storage/cloud-sql.md",
+    "google-cloud-preparation/storage/Firestore.md",
+    "google-cloud-preparation/storage/BigQuery.md",
+    "google-cloud-preparation/storage/AlloyDB.md",
+    "google-cloud-preparation/load-balancer/Pasted image 20250326181500.png",
+    "google-cloud-preparation/load-balancer/GKE-internal-and-external.md",
     "google-cloud-preparation/Kubernetes/Pasted image 20250326184058.png",
+    "google-cloud-preparation/Kubernetes/Pasted image 20250326183950.png",
+    "google-cloud-preparation/storage",
+    "google-cloud-preparation/load-balancer",
+    "google-cloud-preparation/compute-engine",
+    "google-cloud-preparation/Pasted image 20250326184131.png",
+    "google-cloud-course/images/Pasted image 20250408154548.png",
     "google-cloud-course/Untitled.canvas"
   ]
 }
